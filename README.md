@@ -1,5 +1,8 @@
 # shopify-internship-challenge
 
+live link - https://shoppies-challenge.netlify.app/
+This is web app allows you to nominate your favourite movies for shoppies award show. 
+
 ## Project setup
 ```
 npm install
